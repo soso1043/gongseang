@@ -1,0 +1,12 @@
+{
+  "name": "gongseang",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/soso1043/gongseang.git",
+  "author": "sjlee <sjlee1043@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.6.0",
+    "react-bootstrap": "^1.6.1"
+  }
+}
